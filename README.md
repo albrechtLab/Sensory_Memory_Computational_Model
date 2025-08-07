@@ -11,6 +11,6 @@ The model is based in MATLAB (R2023a tested). Scripts are organized as follows a
 <img width="1103" height="653" alt="image" src="https://github.com/user-attachments/assets/4a357d0d-e943-472a-80a5-cbb85dc41e37" />
 
 
-To generate a new model prediction of neural acrtivity and response, see demo code _Demo_model_prediction.m_.
+To generate model predictions of neural and behavior responses to any repeated stimulation pattern and concentration, see the demo code _Demo_model_prediction.m_. Download the _AdaptationHabituationModel_ folder and navigate to this folder within MATLAB. Example output graphs are shown below.  
 <img width="726" height="447" alt="image" src="https://github.com/user-attachments/assets/58a05e44-fded-4db8-b595-713f6b019bf6" />
 <img width="726" height="428" alt="image" src="https://github.com/user-attachments/assets/c8dfc57e-c7dc-4710-946a-5fb3c5cf0d47" />
