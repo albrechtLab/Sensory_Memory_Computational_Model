@@ -1,5 +1,7 @@
 # Sensory_Memory_Computational_Model
-A computational model predicting changes to neural activity (adaptation) and to behavior (habituation) following repeated stimulation. 
+A computational model predicting changes to neural activity (**adaptation**) and to behavior (**habituation**) following repeated stimulation. 
+
+This model accompanies the paper by White H, Mallik S, Ching S, and Albrecht DR, "**Short-term sensory memory mediates adaptation, habituation, and a paradoxical neural-behavioral transformation in _C. elegans_**" (2025) available as preprint here: [insert url]
 
 The model is based in MATLAB (R2023a tested). Scripts are organized as follows and as depicted inthe schematic below:
 * _Optimization.m_ generates optimized model parameters using the 20s/60s experimental AWA neural and behavioral response dataset (in _ExpData_conc.mat_) and the optimization cost function (_cost_fn.m_).
